@@ -29,7 +29,7 @@ Indroduction
 
 Windows
 | Status | Room Title                                                                                       | Category           | Estimated Time to Completion      |
-| ---    | ---   
+| ---    | ---                                                                                              | ---                | ---                               |
 | ☐      | [Windows Fundamentals 1](https://tryhackme.com/r/room/windowsfundamentals1xbx)                   | Informational      | 30 Minutes                        |
 | ☐      | [Windows Fundamentals 2](https://tryhackme.com/r/room/windowsfundamentals2x0x)                   |                    | 30 Minutes                        |
 | ☐      | [Windows Command Line](https://tryhackme.com/r/room/windowscommandline)                          |                    | 30 Minutes                        |
