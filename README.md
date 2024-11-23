@@ -25,10 +25,6 @@ Indroduction
 | Status | Room Title    
 | ---    | ---                                                                           
 | ☐      | [Tutorial](https://tryhackme.com/room/tutorial)       
-| ☐      | [Defensive Security Intro](https://tryhackme.com/r/room/defensivesecurityintro)      
-| ☐      | [SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)
-| ☐      | [Digital Forensics Fundamentals](https://tryhackme.com/r/room/digitalforensicsfundamentals)
-| ☐      | [Incident Response Fundamentals](https://tryhackme.com/r/room/incidentresponsefundamentals)
 | ☐      | [Logs Fundamanetals](https://tryhackme.com/r/room/logsfundamentals)                  
 
 Windows
@@ -89,6 +85,7 @@ Networking and Firewall Basics
 | ☐      | [Firewall Fundamentals](https://tryhackme.com/r/room/firewallfundamentals)  
 | ☐      | [Network Security Architecture](https://tryhackme.com/r/room/introtosecurityarchitecture)
 
+<!--
 Basics of Malware
 | Status | Room Title    
 | ---    | ---  
@@ -98,7 +95,7 @@ Basics of Malware
 | ☐      | [x86 Assembly Crash Course](https://tryhackme.com/r/room/x86assemblycrashcourse)
 | ☐      | [Windows Internals](https://tryhackme.com/r/room/windowsinternals)
 | ☐      | [Basic Static Analysis](https://tryhackme.com/r/room/staticanalysis1)
-| ☐      | [Basic Dynamic Analysis](ttps://tryhackme.com/r/room/basicdynamicanalysis)
+| ☐      | [Basic Dynamic Analysis](https://tryhackme.com/r/room/basicdynamicanalysis)
 
 
 Other Useful Tools
@@ -110,3 +107,4 @@ Other Useful Tools
 | ☐      | [Auditing and Monitoring](https://tryhackme.com/r/room/auditingandmonitoringse)                        
 | ☐      | [Volatility](https://tryhackme.com/r/room/volatility)
 | ☐      | [Wazuh](https://tryhackme.com/r/room/wazuhct)
+-->
