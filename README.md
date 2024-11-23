@@ -56,7 +56,9 @@ Linux
 | ☐      | [Linux Shells](https://tryhackme.com/r/room/linuxshells)
 | ☐      | [Linux Fundamentals 2](https://tryhackme.com/r/room/linuxfundamentalspart2)
 | ☐      | [Linux Fundamentals 3](https://tryhackme.com/r/room/linuxfundamentalspart3)
+| ☐      | [Linux File System Analysis](https://tryhackme.com/r/room/linuxfilesystemanalysis)
 | ☐      | [Linux Forensics](https://tryhackme.com/r/room/linuxforensics)
+| ☐      | [Linux Incident Surface](https://tryhackme.com/r/room/linuxincidentsurface)
 | ☐      | [Linux System Hardening](https://tryhackme.com/r/room/linuxsystemhardening)
 
 Endpoint Security Monitoring (Windows)
@@ -81,6 +83,7 @@ Networking and Firewall Basics
 | ☐      | [Nmap Basics](https://tryhackme.com/r/room/nmap)
 | ☐      | [Nessus](https://tryhackme.com/r/room/rpnessusredux)
 | ☐      | [Firewall Fundamentals](https://tryhackme.com/r/room/firewallfundamentals)  
+| ☐      | [Network Security Architecture](https://tryhackme.com/r/room/introtosecurityarchitecture)
 
 Basics of Malware
 | Status | Room Title    
@@ -93,6 +96,7 @@ Other Useful Tools
 | ---    | ---  
 | ☐      | [Splunk 101](https://tryhackme.com/r/room/splunk101)
 | ☐      | [Splunk 101](https://tryhackme.com/r/room/splunk201)
-| ☐      | [Investigating with Splunk](https://tryhackme.com/r/room/investigatingwithsplunk)                           
+| ☐      | [Investigating with Splunk](https://tryhackme.com/r/room/investigatingwithsplunk)   
+| ☐      | [Auditing and Monitoring](https://tryhackme.com/r/room/auditingandmonitoringse)                        
 | ☐      | [Volatility](https://tryhackme.com/r/room/volatility)
 | ☐      | [Wazuh](https://tryhackme.com/r/room/wazuhct)
