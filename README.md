@@ -21,30 +21,54 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 <!-- ☐ -->
 <!-- ☑ -->
 
+Indroduction
 | Status | Room Title    
 | ---    | ---                                                                           
-| ☐      | [Tutorial](https://tryhackme.com/room/tutorial)                               
+| ☐      | [Tutorial](https://tryhackme.com/room/tutorial)       
+| ☐      | [Defensive Security Intro](https://tryhackme.com/r/room/defensivesecurityintro)                        
+
+Windows
+| Status | Room Title    
+| ---    | ---   
+| ☐      | [Windows Fundamentals 1](https://tryhackme.com/r/room/windowsfundamentals1xbx)
+| ☐      | [Windows Fundamentals 2](https://tryhackme.com/r/room/windowsfundamentals2x0x)
+| ☐      | [Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
+| ☐      | [Windows Powershell](https://tryhackme.com/r/room/windowspowershell)
+| ☐      | [Core Windows Processes](https://tryhackme.com/r/room/btwindowsinternals)                                
+| ☐      | [Sysinternals](https://tryhackme.com/r/room/btsysinternalssg)                                
+| ☐      | [Windows Event Logs](https://tryhackme.com/r/room/windowseventlogs)                                
+| ☐      | [Investigating Windows](https://tryhackme.com/r/room/investigatingwindows)                                
+| ☐      | [Windows Forensics 1](https://tryhackme.com/r/room/windowsforensics1)                                
+| ☐      | [Windows Forensics 2](https://tryhackme.com/r/room/windowsforensics2)     
+| ☐      | [Active Directory Basics](https://tryhackme.com/r/room/winadbasics)                           
+
+Linux
+| Status | Room Title    
+| ---    | ---   
+| ☐      | [Linux Fundamentals 1](https://tryhackme.com/r/room/linuxfundamentalspart1)
+| ☐      | [Linux Fundamentals 2](https://tryhackme.com/r/room/linuxfundamentalspart2)
+| ☐      | [Linux Fundamentals 3](https://tryhackme.com/r/room/linuxfundamentalspart3)
+| ☐      | [Linux Shells](https://tryhackme.com/r/room/linuxshells)
+
+Networking and Firewall Basics
+| Status | Room Title    
+| ---    | ---   
 | ☐      | [Intro to Networking](https://tryhackme.com/r/room/introtonetworking)         
 | ☐      | [Network Services](https://tryhackme.com/r/room/networkservices) 
 | ☐      | [Network Services 2](https://tryhackme.com/r/room/networkservices2) 
 | ☐      | [Wireshark 101](https://tryhackme.com/r/room/wireshark)     
-| ☐      | [Windows Fundamentals 1](https://tryhackme.com/r/room/windowsfundamentals1xbx)     
-| ☐      | [Nessus](https://tryhackme.com/r/room/rpnessusredux)
-| ☐      | [Core Windows Processes](https://tryhackme.com/r/room/btwindowsinternals)                                
-| ☐      | [Sysinternals](https://tryhackme.com/r/room/btsysinternalssg)                                
-| ☐      | [Windows Event Logs](https://tryhackme.com/r/room/windowseventlogs)                                
-| ☐      | [Symon](https://tryhackme.com/r/room/sysmon)                                
-| ☐      | [Splunk 101](https://tryhackme.com/r/room/splunk101)                                
-| ☐      | [Volatility](https://tryhackme.com/r/room/volatility)
-| ☐      | [Investigating Windows](https://tryhackme.com/r/room/investigatingwindows)                                
-| ☐      | [Windows Forensics 1](https://tryhackme.com/r/room/windowsforensics1)                                
-| ☐      | [Windows Forensics 2](https://tryhackme.com/r/room/windowsforensics2)                                
-| ☐      | [Redline](https://tryhackme.com/r/room/btredlinejoxr3d)                                
+
+Basics of Malware
+| Status | Room Title    
+| ---    | ---  
 | ☐      | [Intro to Malware](https://tryhackme.com/r/room/malmalintroductory)                                
 | ☐      | [Strings Command](https://tryhackme.com/r/room/malstrings)                                
-| ☐      | [Volatility](https://tryhackme.com/r/room/volatility)                                
-| ☐      | [Volatility](https://tryhackme.com/r/room/volatility)                                
-| ☐      | [Volatility](https://tryhackme.com/r/room/volatility)                                
+
+
+| ☐      | [Nessus](https://tryhackme.com/r/room/rpnessusredux)
+\ ☐      | [Splunk 101](https://tryhackme.com/r/room/splunk101)                                
+| ☐      | [Volatility](https://tryhackme.com/r/room/volatility)
+| ☐      | [Redline](https://tryhackme.com/r/room/btredlinejoxr3d)                             
 
 
 
