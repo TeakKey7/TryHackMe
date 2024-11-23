@@ -57,9 +57,9 @@ Linux
 | ☐      | [Linux Fundamentals 2](https://tryhackme.com/r/room/linuxfundamentalspart2)
 | ☐      | [Linux Fundamentals 3](https://tryhackme.com/r/room/linuxfundamentalspart3)
 | ☐      | [Linux File System Analysis](https://tryhackme.com/r/room/linuxfilesystemanalysis)
-| ☐      | [Linux Forensics](https://tryhackme.com/r/room/linuxforensics)
 | ☐      | [Linux Incident Surface](https://tryhackme.com/r/room/linuxincidentsurface)
 | ☐      | [Linux System Hardening](https://tryhackme.com/r/room/linuxsystemhardening)
+
 
 Endpoint Security Monitoring (Windows)
 | Status | Room Title    
