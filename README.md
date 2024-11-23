@@ -22,9 +22,9 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 <!-- ☑ -->
 
 Indroduction
-| Status | Room Title    
+| Status | Room Title                              | Type         | Estimated Time to Complete
 | ---    | ---                                                                           
-| ☐      | [Tutorial](https://tryhackme.com/room/tutorial)       
+| ☐      | [Tutorial](https://tryhackme.com/room/tutorial)
 | ☐      | [Logs Fundamanetals](https://tryhackme.com/r/room/logsfundamentals)                  
 
 Windows
@@ -34,26 +34,27 @@ Windows
 | ☐      | [Windows Fundamentals 2](https://tryhackme.com/r/room/windowsfundamentals2x0x)
 | ☐      | [Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
 | ☐      | [Windows Powershell](https://tryhackme.com/r/room/windowspowershell)
-| ☐      | [Introduction to Endpoint Security](https://tryhackme.com/r/room/introtoendpointsecurity)                            
+| ☐      | [Windows Hardening](https://tryhackme.com/r/room/microsoftwindowshardening)
+| ☐      | [Introduction to Endpoint Security](https://tryhackme.com/r/room/introtoendpointsecurity) 
 | ☐      | [Core Windows Processes](https://tryhackme.com/r/room/btwindowsinternals)  
-| ☐      | [Sysinternals](https://tryhackme.com/r/room/btsysinternalssg)   
+| ☐      | [Windows Applications](https://tryhackme.com/r/room/windowsapplications)
 | ☐      | [Windows Event Logs](https://tryhackme.com/r/room/windowseventlogs)                                
+| ☐      | [Active Directory Basics](https://tryhackme.com/r/room/winadbasics)
+| ☐      | [Sysinternals](https://tryhackme.com/r/room/btsysinternalssg)   
 | ☐      | [Sysmon](https://tryhackme.com/r/room/sysmon) 
 | ☐      | [Monday Monitor](https://tryhackme.com/r/room/mondaymonitor)     
-| ☐      | [Investigating Windows](https://tryhackme.com/r/room/investigatingwindows)                                
+| ☐      | [Investigating Windows](https://tryhackme.com/r/room/investigatingwindows)   
+| ☐      | [Registry Persistence Detection](https://tryhackme.com/r/room/registrypersistencedetection) 
+| ☐      | [Registry Forensics](https://tryhackme.com/r/room/expregistryforensics)
 | ☐      | [Windows Forensics 1](https://tryhackme.com/r/room/windowsforensics1)                                
 | ☐      | [Windows Forensics 2](https://tryhackme.com/r/room/windowsforensics2)  
-| ☐      | [Retracted](https://tryhackme.com/r/room/retracted)   
-| ☐      | [Active Directory Basics](https://tryhackme.com/r/room/winadbasics)
-| ☐      | [Redline](https://tryhackme.com/r/room/btredlinejoxr3d) 
-| ☐      | [Registry Persistence Detection](https://tryhackme.com/r/room/registrypersistencedetection) 
-| ☐      | [Windows Hardening](https://tryhackme.com/r/room/microsoftwindowshardening)
-| ☐      | [Registry Forensics](https://tryhackme.com/r/room/expregistryforensics)
-| ☐      | [Windows User Activity](https://tryhackme.com/r/room/windowsuseractivity)
-| ☐      | [Windows Applications](https://tryhackme.com/r/room/windowsapplications)
 | ☐      | [Windows User Account Forensics](https://tryhackme.com/r/room/windowsuseraccountforensics)
+| ☐      | [Windows User Activity](https://tryhackme.com/r/room/windowsuseractivity)
+| ☐      | [Active Directory Hardening](https://tryhackme.com/r/room/activedirectoryhardening)   
 | ☐      | [Blizzard](https://tryhackme.com/r/room/blizzard)
-| ☐      | [Active Directory Hardening](https://tryhackme.com/r/room/activedirectoryhardening)        
+| ☐      | [Retracted](https://tryhackme.com/r/room/retracted)   
+
+
 
 Linux
 | Status | Room Title    
@@ -107,4 +108,6 @@ Other Useful Tools
 | ☐      | [Auditing and Monitoring](https://tryhackme.com/r/room/auditingandmonitoringse)                        
 | ☐      | [Volatility](https://tryhackme.com/r/room/volatility)
 | ☐      | [Wazuh](https://tryhackme.com/r/room/wazuhct)
+| ☐      | [Redline](https://tryhackme.com/r/room/btredlinejoxr3d) 
+
 -->
