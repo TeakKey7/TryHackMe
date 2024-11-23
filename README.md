@@ -25,9 +25,11 @@ Indroduction
 | Status | Room Title    
 | ---    | ---                                                                           
 | ☐      | [Tutorial](https://tryhackme.com/room/tutorial)       
-| ☐      | [Defensive Security Intro](https://tryhackme.com/r/room/defensivesecurityintro)                        
-
-
+| ☐      | [Defensive Security Intro](https://tryhackme.com/r/room/defensivesecurityintro)      
+| ☐      | [SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)
+| ☐      | [Digital Forensics Fundamentals](https://tryhackme.com/r/room/digitalforensicsfundamentals)
+| ☐      | [Incident Response Fundamentals](https://tryhackme.com/r/room/incidentresponsefundamentals)
+| ☐      | [Logs Fundamanetals](https://tryhackme.com/r/room/logsfundamentals)                  
 
 Windows
 | Status | Room Title    
@@ -58,7 +60,8 @@ Networking and Firewall Basics
 | ☐      | [Intro to Networking](https://tryhackme.com/r/room/introtonetworking)         
 | ☐      | [Network Services](https://tryhackme.com/r/room/networkservices) 
 | ☐      | [Network Services 2](https://tryhackme.com/r/room/networkservices2) 
-| ☐      | [Wireshark 101](https://tryhackme.com/r/room/wireshark)     
+| ☐      | [Wireshark 101](https://tryhackme.com/r/room/wireshark)   
+| ☐      | [Firewall Fundamentals](https://tryhackme.com/r/room/firewallfundamentals)  
 
 Basics of Malware
 | Status | Room Title    
