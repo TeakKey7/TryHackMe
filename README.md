@@ -21,11 +21,10 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 <!-- ☐ -->
 <!-- ☑ -->
 
-Indroduction
-| Status | Room Title                                                                                       | Category           | Estimated Time to Completion      |
-| ---    | ---                                                                           
-| ☐      | [Tutorial](https://tryhackme.com/room/tutorial)                                                  | Informational      | 30 Minutes                        |
-| ☐      | [Logs Fundamanetals](https://tryhackme.com/r/room/logsfundamentals)                              | Informational      | 30 Minutes                        |
+| Status | Room Title                                                                    | Category            | Write-up                          |
+| ---    | ---                                                                           | ---                 | ---                               |
+| ☑      | [Tutorial](https://tryhackme.com/room/tutorial)                               | Intro               |                                   |
+| ☐      | [Logs Fundamanetals](https://tryhackme.com/r/room/logsfundamentals)           | Informational       | 30 Minutes                        |
 
 Windows
 | Status | Room Title                                                                                       | Category           | Estimated Time to Completion      |
