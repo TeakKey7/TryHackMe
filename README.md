@@ -21,10 +21,11 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 <!-- ☐ -->
 <!-- ☑ -->
 
-| Status | Room Title                                                                    | Category            | Write-up                          |
-| ---    | ---                                                                           | ---                 | ---                               |
-| ☑      | [Tutorial](https://tryhackme.com/room/tutorial)                               | Intro               |                                   |
-| ☐      | [Logs Fundamanetals](https://tryhackme.com/r/room/logsfundamentals)           | Informational       | 30 Minutes                        |
+Indroduction
+| Status | Room Title                                                                                       | Category           | Estimated Time to Completion      |
+| ---    | ---                                                                                              | ---                | ---                                  |
+| ☐      | [Tutorial](https://tryhackme.com/room/tutorial)                                                  | Informational      | 30 Minutes                        |
+| ☐      | [Logs Fundamanetals](https://tryhackme.com/r/room/logsfundamentals)                              | Informational      | 30 Minutes                        |
 
 Windows
 | Status | Room Title                                                                                       | Category           | Estimated Time to Completion      |
@@ -57,7 +58,7 @@ Windows
 
 Linux
 | Status | Room Title                                                                                       | Category           | Estimated Time to Completion      |
-| ---    | ---   
+| ---    | ---                                                                                              | ---                | ---                               |
 | ☐      | [Linux Fundamentals 1](https://tryhackme.com/r/room/linuxfundamentalspart1)                      | Informational      | 30 Minutes                        |
 | ☐      | [Linux Shells](https://tryhackme.com/r/room/linuxshells)                                         | Informational      | 30 Minutes                        |
 | ☐      | [Linux Fundamentals 2](https://tryhackme.com/r/room/linuxfundamentalspart2)                      | Informational      | 30 Minutes                        |
@@ -73,7 +74,7 @@ Linux
 
 Networking and Firewall Basics
 | Status | Room Title                                                                                       | Category           | Estimated Time to Completion      |
-| ---    | ---   
+| ---    | ---                                                                                              | ---                | ---                               |
 | ☐      | [Intro to Networking](https://tryhackme.com/r/room/introtonetworking)                            | Informational      | 30 Minutes                        |
 | ☐      | [Wireshark 101](https://tryhackme.com/r/room/wireshark)                                          | Informational      | 30 Minutes                        |
 | ☐      | [Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)                           | Informational      | 30 Minutes                        |
