@@ -26,7 +26,8 @@ Indroduction
 | ---    | ---                                                                           
 | ☐      | [Tutorial](https://tryhackme.com/room/tutorial)       
 | ☐      | [Defensive Security Intro](https://tryhackme.com/r/room/defensivesecurityintro)                        
-| ---    | ---   
+
+
 
 Windows
 | Status | Room Title    
