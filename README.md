@@ -38,15 +38,25 @@ Windows
 | ☐      | [Windows Fundamentals 2](https://tryhackme.com/r/room/windowsfundamentals2x0x)
 | ☐      | [Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
 | ☐      | [Windows Powershell](https://tryhackme.com/r/room/windowspowershell)
-| ☐      | [Core Windows Processes](https://tryhackme.com/r/room/btwindowsinternals)    
+| ☐      | [Introduction to Endpoint Security](https://tryhackme.com/r/room/introtoendpointsecurity)                            
+| ☐      | [Core Windows Processes](https://tryhackme.com/r/room/btwindowsinternals)  
+| ☐      | [Sysinternals](https://tryhackme.com/r/room/btsysinternalssg)   
+| ☐      | [Windows Event Logs](https://tryhackme.com/r/room/windowseventlogs)                                
+| ☐      | [Sysmon](https://tryhackme.com/r/room/sysmon) 
+| ☐      | [Monday Monitor](https://tryhackme.com/r/room/mondaymonitor)     
 | ☐      | [Investigating Windows](https://tryhackme.com/r/room/investigatingwindows)                                
 | ☐      | [Windows Forensics 1](https://tryhackme.com/r/room/windowsforensics1)                                
-| ☐      | [Windows Forensics 2](https://tryhackme.com/r/room/windowsforensics2)     
+| ☐      | [Windows Forensics 2](https://tryhackme.com/r/room/windowsforensics2)  
+| ☐      | [Retracted](https://tryhackme.com/r/room/retracted)   
 | ☐      | [Active Directory Basics](https://tryhackme.com/r/room/winadbasics)
 | ☐      | [Redline](https://tryhackme.com/r/room/btredlinejoxr3d) 
 | ☐      | [Registry Persistence Detection](https://tryhackme.com/r/room/registrypersistencedetection) 
 | ☐      | [Windows Hardening](https://tryhackme.com/r/room/microsoftwindowshardening)
 | ☐      | [Registry Forensics](https://tryhackme.com/r/room/expregistryforensics)
+| ☐      | [Windows User Activity](https://tryhackme.com/r/room/windowsuseractivity)
+| ☐      | [Windows Applications](https://tryhackme.com/r/room/windowsapplications)
+| ☐      | [Windows User Account Forensics](https://tryhackme.com/r/room/windowsuseraccountforensics)
+| ☐      | [Blizzard](https://tryhackme.com/r/room/blizzard)
 | ☐      | [Active Directory Hardening](https://tryhackme.com/r/room/activedirectoryhardening)        
 
 Linux
@@ -59,17 +69,11 @@ Linux
 | ☐      | [Linux File System Analysis](https://tryhackme.com/r/room/linuxfilesystemanalysis)
 | ☐      | [Linux Incident Surface](https://tryhackme.com/r/room/linuxincidentsurface)
 | ☐      | [Linux System Hardening](https://tryhackme.com/r/room/linuxsystemhardening)
-
-
-Endpoint Security Monitoring (Windows)
-| Status | Room Title    
-| ---    | ---  
-| ☐      | [Introduction to Endpoint Security](https://tryhackme.com/r/room/introtoendpointsecurity)                            
-| ☐      | [Sysinternals](https://tryhackme.com/r/room/btsysinternalssg)   
-| ☐      | [Windows Event Logs](https://tryhackme.com/r/room/windowseventlogs)                                
-| ☐      | [Sysmon](https://tryhackme.com/r/room/sysmon) 
-| ☐      | [Monday Monitor](https://tryhackme.com/r/room/mondaymonitor)       
-| ☐      | [Retracted](https://tryhackme.com/r/room/retracted)   
+| ☐      | [Linux Incident Surface](https://tryhackme.com/r/room/linuxincidentsurface)
+| ☐      | [Linux Process Analysis](https://tryhackme.com/r/room/linuxprocessanalysis)
+| ☐      | [Linux Logs Investigations](https://tryhackme.com/r/room/linuxlogsinvestigations)
+| ☐      | [Linux Live Analysis](https://tryhackme.com/r/room/linuxliveanalysis)
+| ☐      | [Tardigrade](https://tryhackme.com/r/room/tardigrade)  
 
 Networking and Firewall Basics
 | Status | Room Title    
@@ -89,7 +93,13 @@ Basics of Malware
 | Status | Room Title    
 | ---    | ---  
 | ☐      | [Intro to Malware](https://tryhackme.com/r/room/malmalintroductory)                                
-| ☐      | [Strings Command](https://tryhackme.com/r/room/malstrings)                                
+| ☐      | [Strings Command](https://tryhackme.com/r/room/malstrings)  
+| ☐      | [Basics of Reverse Engineering](https://tryhackme.com/r/room/basicmalwarere)
+| ☐      | [x86 Assembly Crash Course](https://tryhackme.com/r/room/x86assemblycrashcourse)
+| ☐      | [Windows Internals](https://tryhackme.com/r/room/windowsinternals)
+| ☐      | [Basic Static Analysis](https://tryhackme.com/r/room/staticanalysis1)
+| ☐      | [Basic Dynamic Analysis](ttps://tryhackme.com/r/room/basicdynamicanalysis)
+
 
 Other Useful Tools
 | Status | Room Title    
