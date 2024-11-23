@@ -43,16 +43,21 @@ Windows
 | ☐      | [Windows Forensics 1](https://tryhackme.com/r/room/windowsforensics1)                                
 | ☐      | [Windows Forensics 2](https://tryhackme.com/r/room/windowsforensics2)     
 | ☐      | [Active Directory Basics](https://tryhackme.com/r/room/winadbasics)
-| ☐      | [Redline](https://tryhackme.com/r/room/btredlinejoxr3d)               
+| ☐      | [Redline](https://tryhackme.com/r/room/btredlinejoxr3d) 
+| ☐      | [Registry Persistence Detection](https://tryhackme.com/r/room/registrypersistencedetection) 
+| ☐      | [Windows Hardening](https://tryhackme.com/r/room/microsoftwindowshardening)
+| ☐      | [Registry Forensics](https://tryhackme.com/r/room/expregistryforensics)
+| ☐      | [Active Directory Hardening](https://tryhackme.com/r/room/activedirectoryhardening)        
 
 Linux
 | Status | Room Title    
 | ---    | ---   
 | ☐      | [Linux Fundamentals 1](https://tryhackme.com/r/room/linuxfundamentalspart1)
+| ☐      | [Linux Shells](https://tryhackme.com/r/room/linuxshells)
 | ☐      | [Linux Fundamentals 2](https://tryhackme.com/r/room/linuxfundamentalspart2)
 | ☐      | [Linux Fundamentals 3](https://tryhackme.com/r/room/linuxfundamentalspart3)
-| ☐      | [Linux Shells](https://tryhackme.com/r/room/linuxshells)
 | ☐      | [Linux Forensics](https://tryhackme.com/r/room/linuxforensics)
+| ☐      | [Linux System Hardening](https://tryhackme.com/r/room/linuxsystemhardening)
 
 Endpoint Security Monitoring (Windows)
 | Status | Room Title    
