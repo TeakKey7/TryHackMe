@@ -38,13 +38,22 @@ Windows
 | ☐      | [Windows Fundamentals 2](https://tryhackme.com/r/room/windowsfundamentals2x0x)
 | ☐      | [Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
 | ☐      | [Windows Powershell](https://tryhackme.com/r/room/windowspowershell)
-| ☐      | [Core Windows Processes](https://tryhackme.com/r/room/btwindowsinternals)                                
-| ☐      | [Sysinternals](https://tryhackme.com/r/room/btsysinternalssg)                                
+| ☐      | [Core Windows Processes](https://tryhackme.com/r/room/btwindowsinternals)    
+
+|Endpoint Security Monitoring
+| ☐      | [Introduction to Endpoint Security](https://tryhackme.com/r/room/introtoendpointsecurity)                            
+| ☐      | [Sysinternals](https://tryhackme.com/r/room/btsysinternalssg)   
 | ☐      | [Windows Event Logs](https://tryhackme.com/r/room/windowseventlogs)                                
+| ☐      | [Sysmon](https://tryhackme.com/r/room/sysmon) 
+| ☐      | [Monday Monitor](https://tryhackme.com/r/room/mondaymonitor)       
+| ☐      | [Retracted](https://tryhackme.com/r/room/retracted)   
+
 | ☐      | [Investigating Windows](https://tryhackme.com/r/room/investigatingwindows)                                
 | ☐      | [Windows Forensics 1](https://tryhackme.com/r/room/windowsforensics1)                                
 | ☐      | [Windows Forensics 2](https://tryhackme.com/r/room/windowsforensics2)     
-| ☐      | [Active Directory Basics](https://tryhackme.com/r/room/winadbasics)                           
+| ☐      | [Active Directory Basics](https://tryhackme.com/r/room/winadbasics)
+| ☐      | [Redline](https://tryhackme.com/r/room/btredlinejoxr3d)      
+              
 
 Linux
 | Status | Room Title    
@@ -53,14 +62,19 @@ Linux
 | ☐      | [Linux Fundamentals 2](https://tryhackme.com/r/room/linuxfundamentalspart2)
 | ☐      | [Linux Fundamentals 3](https://tryhackme.com/r/room/linuxfundamentalspart3)
 | ☐      | [Linux Shells](https://tryhackme.com/r/room/linuxshells)
+| ☐      | [Linux Forensics](https://tryhackme.com/r/room/linuxforensics)
 
 Networking and Firewall Basics
 | Status | Room Title    
 | ---    | ---   
-| ☐      | [Intro to Networking](https://tryhackme.com/r/room/introtonetworking)         
-| ☐      | [Network Services](https://tryhackme.com/r/room/networkservices) 
-| ☐      | [Network Services 2](https://tryhackme.com/r/room/networkservices2) 
-| ☐      | [Wireshark 101](https://tryhackme.com/r/room/wireshark)   
+| ☐      | [Intro to Networking](https://tryhackme.com/r/room/introtonetworking)
+| ☐      | [Wireshark 101](https://tryhackme.com/r/room/wireshark)          
+| ☐      | [Networking Concepts](https://tryhackme.com/r/room/networkingconcepts) 
+| ☐      | [Networking Core Protocols](https://tryhackme.com/r/room/networkingcoreprotocols) 
+| ☐      | [Networking Secure Protocols](https://tryhackme.com/r/room/networkingsecureprotocols)
+| ☐      | [TCPDump Basics](https://tryhackme.com/r/room/tcpdump)
+| ☐      | [Nmap Basics](https://tryhackme.com/r/room/nmap)
+| ☐      | [Nessus](https://tryhackme.com/r/room/rpnessusredux)
 | ☐      | [Firewall Fundamentals](https://tryhackme.com/r/room/firewallfundamentals)  
 
 Basics of Malware
@@ -69,11 +83,12 @@ Basics of Malware
 | ☐      | [Intro to Malware](https://tryhackme.com/r/room/malmalintroductory)                                
 | ☐      | [Strings Command](https://tryhackme.com/r/room/malstrings)                                
 
-
-| ☐      | [Nessus](https://tryhackme.com/r/room/rpnessusredux)
-\ ☐      | [Splunk 101](https://tryhackme.com/r/room/splunk101)                                
+Other Useful Tools
+| ☐      | [Splunk 101](https://tryhackme.com/r/room/splunk101)
+| ☐      | [Splunk 101](https://tryhackme.com/r/room/splunk201)
+| ☐      | [Investigating with Splunk](https://tryhackme.com/r/room/investigatingwithsplunk)                           
 | ☐      | [Volatility](https://tryhackme.com/r/room/volatility)
-| ☐      | [Redline](https://tryhackme.com/r/room/btredlinejoxr3d)                             
+| ☐      | [Wazuh](https://tryhackme.com/r/room/wazuhct)
 
 
 
