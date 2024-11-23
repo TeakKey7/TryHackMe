@@ -21,33 +21,33 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 <!-- ☐ -->
 <!-- ☑ -->
 
-| Status | Room Title                                                                    | Category            | Write-up                                 |
-| ---    | ---                                                                           | ---                 | ---                                      |
-| ☐      | [Tutorial](https://tryhackme.com/room/tutorial)                               | Intro               |                                          |
-| ☐      | [Welcome](https://tryhackme.com/jr/welcome)                                   | Intro               | [done](write-ups/level1/Welcome)         |
-| ☐      | [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec) | Intro               |                                          |
-| ☐      | [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)         | Intro               |                                          |
-| ☐      | [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)     | Intro               |                                          |
-| ☐      | [Principles of Security](https://tryhackme.com/room/principlesofsecurity)     | Intro               |                                          |
-| ☐      | [Nmap](https://tryhackme.com/room/furthernmap)                                | Tooling             |                                          |
-| ☐      | [Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap)         | Tooling             |                                          |
-| ☐      | [OHsint](https://tryhackme.com/room/ohsint)                                   | CTF                 |                                          |
+| Status | Room Title    
+| ---    | ---                                                                           
+| ☐      | [Tutorial](https://tryhackme.com/room/tutorial)                               
+| ☐      | [Intro to Networking](https://tryhackme.com/r/room/introtonetworking)         
+| ☐      | [Network Services](https://tryhackme.com/r/room/networkservices) 
+| ☐      | [Network Services 2](https://tryhackme.com/r/room/networkservices2) 
+| ☐      | [Wireshark 101](https://tryhackme.com/r/room/wireshark)     
+| ☐      | [Windows Fundamentals 1](https://tryhackme.com/r/room/windowsfundamentals1xbx)     
+| ☐      | [Nessus](https://tryhackme.com/r/room/rpnessusredux)
+| ☐      | [Core Windows Processes](https://tryhackme.com/r/room/btwindowsinternals)                                
+| ☐      | [Sysinternals](https://tryhackme.com/r/room/btsysinternalssg)                                
+| ☐      | [Windows Event Logs](https://tryhackme.com/r/room/windowseventlogs)                                
+| ☐      | [Symon](https://tryhackme.com/r/room/sysmon)                                
+| ☐      | [Splunk 101](https://tryhackme.com/r/room/splunk101)                                
+| ☐      | [Volatility](https://tryhackme.com/r/room/volatility)
+| ☐      | [Investigating Windows](https://tryhackme.com/r/room/investigatingwindows)                                
+| ☐      | [Windows Forensics 1](https://tryhackme.com/r/room/windowsforensics1)                                
+| ☐      | [Windows Forensics 2](https://tryhackme.com/r/room/windowsforensics2)                                
+| ☐      | [Redline](https://tryhackme.com/r/room/btredlinejoxr3d)                                
+| ☐      | [Intro to Malware](https://tryhackme.com/r/room/malmalintroductory)                                
+| ☐      | [Strings Command](https://tryhackme.com/r/room/malstrings)                                
+| ☐      | [Volatility](https://tryhackme.com/r/room/volatility)                                
+| ☐      | [Volatility](https://tryhackme.com/r/room/volatility)                                
+| ☐      | [Volatility](https://tryhackme.com/r/room/volatility)                                
 
-| ☐      | [Relevant](https://tryhackme.com/room/relevant)                               | Windows             |                                          |
-| ☑      | [Advent of Cyber Year 1](https://tryhackme.com/room/25daysofchristmas)        | Other               |                                          |
-| ☑      | [Advent of Cyber Year 2](https://tryhackme.com/room/adventofcyber2)           | Other               |                                          |
-| ☑      | [Advent of Cyber Year 3](https://tryhackme.com/room/adventofcyber3)           | Other               |                                          |
-| ☑      | [Advent of Cyber Year 4](https://tryhackme.com/room/adventofcyber4)           | Other               |                                          |
 
-<!-- Rooms that where made private: -->
-<!-- | ☑      | [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting)       | Intro               |                                          | -->
-<!-- | ☐      | [Sublist3r](https://tryhackme.com/room/rpsublist3r)                      | Tooling             |                                          | -->
-<!-- | ☐      | [Web Scanning](https://tryhackme.com/room/rpwebscanning)                 | Tooling             |                                          | -->
-<!-- | ☐      | [Intro to x86 64](https://tryhackme.com/room/introtox8664)               | Reverse Engineering |                                          | -->
-<!-- | ☐      | [CC Ghidra](https://tryhackme.com/room/ccghidra)                         | Reverse Engineering |                                          | -->
-<!-- | ☐      | [CC Radare2](https://tryhackme.com/room/ccradare2)                       | Reverse Engineering |                                          | -->
-<!-- | ☐      | [CC Steganography](https://tryhackme.com/room/ccstego)                   | Reverse Engineering |                                          | -->
-<!-- | ☐      | [Reverse Engineering](https://tryhackme.com/room/reverseengineering)     | Reverse Engineering |                                          | -->
+
 
 <details>
   <summary>
