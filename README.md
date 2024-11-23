@@ -84,6 +84,8 @@ Basics of Malware
 | ☐      | [Strings Command](https://tryhackme.com/r/room/malstrings)                                
 
 Other Useful Tools
+| Status | Room Title    
+| ---    | ---  
 | ☐      | [Splunk 101](https://tryhackme.com/r/room/splunk101)
 | ☐      | [Splunk 101](https://tryhackme.com/r/room/splunk201)
 | ☐      | [Investigating with Splunk](https://tryhackme.com/r/room/investigatingwithsplunk)                           
