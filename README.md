@@ -24,35 +24,31 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 Indroduction
 | Status | Room Title                                                                                       | Category           | Estimated Time to Completion      |
 | ---    | ---                                                                                              | ---                | ---                               |
-| ☐      | [Tutorial](https://tryhackme.com/room/tutorial)                                                  | Informational      | 30 Minutes                        |
-| ☐      | [Logs Fundamentals](https://tryhackme.com/r/room/logsfundamentals)                               | Informational      | 30 Minutes                        |
+| ☐      | [Tutorial](https://tryhackme.com/room/tutorial)                                                  | Easy               | 15 Minutes                        |
+| ☐      | [Logs Fundamentals](https://tryhackme.com/r/room/logsfundamentals)                               | Easy               | 45 Minutes                        |
 
 Windows
-| Status | Room Title                                                                                       | Category           | Estimated Time to Completion      |
-| ---    | ---                                                                                              | ---                | ---                               |
-| ☐      | [Windows Fundamentals 1](https://tryhackme.com/r/room/windowsfundamentals1xbx)                   | Informational      | 30 Minutes                        |
-| ☐      | [Windows Fundamentals 2](https://tryhackme.com/r/room/windowsfundamentals2x0x)                   |                    | 30 Minutes                        |
-| ☐      | [Windows Command Line](https://tryhackme.com/r/room/windowscommandline)                          |                    | 30 Minutes                        |
-| ☐      | [Windows Powershell](https://tryhackme.com/r/room/windowspowershell)                             |                    | 30 Minutes                        |
-| ☐      | [Windows Hardening](https://tryhackme.com/r/room/microsoftwindowshardening)                      |                    | 30 Minutes                        |
-| ☐      | [Introduction to Endpoint Security](https://tryhackme.com/r/room/introtoendpointsecurity)        |                    | 30 Minutes                        |
-| ☐      | [Core Windows Processes](https://tryhackme.com/r/room/btwindowsinternals)                        |                    | 30 Minutes                        |
-| ☐      | [Windows Applications](https://tryhackme.com/r/room/windowsapplications)                         |                    | 30 Minutes                        |
-| ☐      | [Windows Event Logs](https://tryhackme.com/r/room/windowseventlogs)                              |                    | 30 Minutes                        |
-| ☐      | [Active Directory Basics](https://tryhackme.com/r/room/winadbasics)                              |                    | 30 Minutes                        |
-| ☐      | [Sysinternals](https://tryhackme.com/r/room/btsysinternalssg)                                    |                    | 30 Minutes                        |   
-| ☐      | [Sysmon](https://tryhackme.com/r/room/sysmon)                                                    |                    | 30 Minutes                        | 
-| ☐      | [Monday Monitor](https://tryhackme.com/r/room/mondaymonitor)                                     |                    | 30 Minutes                        | 
-| ☐      | [Investigating Windows](https://tryhackme.com/r/room/investigatingwindows)                       |                    | 30 Minutes                        |
-| ☐      | [Registry Persistence Detection](https://tryhackme.com/r/room/registrypersistencedetection)      |                    | 30 Minutes                        |
-| ☐      | [Registry Forensics](https://tryhackme.com/r/room/expregistryforensics)                          |                    | 30 Minutes                        |
-| ☐      | [Windows Forensics 1](https://tryhackme.com/r/room/windowsforensics1)                            |                    | 30 Minutes                        |
-| ☐      | [Windows Forensics 2](https://tryhackme.com/r/room/windowsforensics2)                            |                    | 30 Minutes                        |
-| ☐      | [Windows User Account Forensics](https://tryhackme.com/r/room/windowsuseraccountforensics)       |                    | 30 Minutes                        |
-| ☐      | [Windows User Activity](https://tryhackme.com/r/room/windowsuseractivity)                        |                    | 30 Minutes                        |
-| ☐      | [Active Directory Hardening](https://tryhackme.com/r/room/activedirectoryhardening)              |                    | 30 Minutes                        |
-| ☐      | [Blizzard](https://tryhackme.com/r/room/blizzard)                                                |                    | 30 Minutes                        |
-| ☐      | [Retracted](https://tryhackme.com/r/room/retracted)                                              |                    | 30 Minutes                        |
+| Status | Room Title                                                                                       | Category           | Estimated Time to Completion      | 
+| ---    | ---                                                                                              | ---                | ---                               | 
+| ☐      | [Windows Fundamentals 1](https://tryhackme.com/r/room/windowsfundamentals1xbx)                   | Informational      | 30 Minutes                        | *
+| ☐      | [Windows Fundamentals 2](https://tryhackme.com/r/room/windowsfundamentals2x0x)                   | Informational      | 30 Minutes                        | *
+| ☐      | [Windows Command Line](https://tryhackme.com/r/room/windowscommandline)                          | Easy               | 45 Minutes                        |
+| ☐      | [Windows Powershell](https://tryhackme.com/r/room/windowspowershell)                             | Easy               | 60 Minutes                        | *
+| ☐      | [Windows Hardening](https://tryhackme.com/r/room/microsoftwindowshardening)                      | Easy               | 120 Minutes                       | *
+| ☐      | [Introduction to Endpoint Security](https://tryhackme.com/r/room/introtoendpointsecurity)        | Easy               | 60 Minutes                        |
+| ☐      | [Core Windows Processes](https://tryhackme.com/r/room/btwindowsinternals)                        | Easy               | 30 Minutes                        |
+| ☐      | [Windows Applications](https://tryhackme.com/r/room/windowsapplications)                         | Medium             | 60 Minutes                        |
+| ☐      | [Windows Event Logs](https://tryhackme.com/r/room/windowseventlogs)                              | Medium             | 60 Minutes                        |
+| ☐      | [Active Directory Basics](https://tryhackme.com/r/room/winadbasics)                              | Easy               | 30 Minutes                        |
+| ☐      | [Sysinternals](https://tryhackme.com/r/room/btsysinternalssg)                                    | Easy               | 90 Minutes                        |   
+| ☐      | [Sysmon](https://tryhackme.com/r/room/sysmon)                                                    | Easy               | 120 Minutes                       | 
+| ☐      | [Registry Persistence Detection](https://tryhackme.com/r/room/registrypersistencedetection)      | Easy               | 60 Minutes                        |
+| ☐      | [Registry Forensics](https://tryhackme.com/r/room/expregistryforensics)                          | Medium             | 120 Minutes                       |
+| ☐      | [Windows Forensics 1](https://tryhackme.com/r/room/windowsforensics1)                            | Medium             | 60 Minutes                        |
+| ☐      | [Windows Forensics 2](https://tryhackme.com/r/room/windowsforensics2)                            | Medium             | 70 Minutes                        |
+| ☐      | [Windows User Account Forensics](https://tryhackme.com/r/room/windowsuseraccountforensics)       | Easy               | 30 Minutes                        |
+| ☐      | [Windows User Activity](https://tryhackme.com/r/room/windowsuseractivity)                        | Medium             | 60 Minutes                        |
+| ☐      | [Active Directory Hardening](https://tryhackme.com/r/room/activedirectoryhardening)              | Medium             | 240 Minutes                       |
 
 
 
@@ -109,5 +105,11 @@ Other Useful Tools
 | ☐      | [Volatility](https://tryhackme.com/r/room/volatility)
 | ☐      | [Wazuh](https://tryhackme.com/r/room/wazuhct)
 | ☐      | [Redline](https://tryhackme.com/r/room/btredlinejoxr3d) 
+
+Boxes for Trainings
+| ☐      | [Investigating Windows](https://tryhackme.com/r/room/investigatingwindows)                       |                    | 30 Minutes                        |
+| ☐      | [Monday Monitor](https://tryhackme.com/r/room/mondaymonitor)                                     |                    | 30 Minutes                        | 
+| ☐      | [Blizzard](https://tryhackme.com/r/room/blizzard)                                                |                    | 30 Minutes                        |
+| ☐      | [Retracted](https://tryhackme.com/r/room/retracted)                                              |                    | 30 Minutes                        |
 
 -->
