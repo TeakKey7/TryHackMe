@@ -48,15 +48,17 @@ Linux *Required*
 | Status | Room Title                                                                                       | Category           | Estimated Time to Completion      |
 | ---    | ---                                                                                              | ---                | ---                               |
 | ☐      | [Linux Fundamentals 1](https://tryhackme.com/r/room/linuxfundamentalspart1)                      | Informational      | 10 Minutes                        |
-| ☐      | [Linux Shells](https://tryhackme.com/r/room/linuxshells)                                         | Informational      | 30 Minutes                        |
-| ☐      | [Linux Fundamentals 2](https://tryhackme.com/r/room/linuxfundamentalspart2)                      | Informational      | 30 Minutes                        |
-| ☐      | [Linux Fundamentals 3](https://tryhackme.com/r/room/linuxfundamentalspart3)                      | Informational      | 30 Minutes                        |
-| ☐      | [Linux File System Analysis](https://tryhackme.com/r/room/linuxfilesystemanalysis)               | Informational      | 30 Minutes                        |
-| ☐      | [Linux Incident Surface](https://tryhackme.com/r/room/linuxincidentsurface)                      | Informational      | 30 Minutes                        |
-| ☐      | [Linux System Hardening](https://tryhackme.com/r/room/linuxsystemhardening)                      | Informational      | 30 Minutes                        |
-| ☐      | [Linux Process Analysis](https://tryhackme.com/r/room/linuxprocessanalysis)                      | Informational      | 30 Minutes                        |
-| ☐      | [Linux Logs Investigations](https://tryhackme.com/r/room/linuxlogsinvestigations)                | Informational      | 30 Minutes                        |
-| ☐      | [Linux Live Analysis](https://tryhackme.com/r/room/linuxliveanalysis)                            | Informational      | 30 Minutes                        |
+| ☐      | [Linux Shells](https://tryhackme.com/r/room/linuxshells)                                         | Easy               | 45 Minutes                        |
+| ☐      | [Linux Fundamentals 2](https://tryhackme.com/r/room/linuxfundamentalspart2)                      | Informational      | 20 Minutes                        |
+| ☐      | [Linux Fundamentals 3](https://tryhackme.com/r/room/linuxfundamentalspart3)                      | Informational      | 18 Minutes                        |
+| ☐      | [Linux File System Analysis](https://tryhackme.com/r/room/linuxfilesystemanalysis)               | Easy               | 80 Minutes                        |
+| ☐      | [Linux Incident Surface](https://tryhackme.com/r/room/linuxincidentsurface)                      | Easy               | 120 Minutes                       |
+| ☐      | [Linux System Hardening](https://tryhackme.com/r/room/linuxsystemhardening)                      | Medium             | 30 Minutes                        |
+| ☐      | [Linux Process Analysis](https://tryhackme.com/r/room/linuxprocessanalysis)                      | Easy               | 60 Minutes                        |
+| ☐      | [Linux Logs Investigations](https://tryhackme.com/r/room/linuxlogsinvestigations)                | Medium             | 60 Minutes                        |
+| ☐      | [Linux Live Analysis*](https://tryhackme.com/r/room/linuxliveanalysis)                           | Medium             | 120 Minutes                       |
+
+*highly recommended but not required
 
 Networking and Firewall Basics *Required*
 | Status | Room Title                                                                                       | Category           | Estimated Time to Completion      |
