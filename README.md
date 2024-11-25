@@ -41,6 +41,7 @@ Windows *Required*
 | ☐      | [Windows Forensics 1](https://tryhackme.com/r/room/windowsforensics1)                            | Medium             | 60 Minutes                        |
 | ☐      | [Windows User Account Forensics](https://tryhackme.com/r/room/windowsuseraccountforensics)       | Easy               | 30 Minutes                        |
 | ☐      | [Active Directory Hardening*](https://tryhackme.com/r/room/activedirectoryhardening)             | Medium             | 240 Minutes                       |
+
 *highly recommended but not required
 
 Linux *Required*
