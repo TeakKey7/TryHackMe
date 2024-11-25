@@ -63,12 +63,13 @@ Linux *Required*
 Networking and Firewall Basics *Required*
 | Status | Room Title                                                                                       | Category           | Estimated Time to Completion      |
 | ---    | ---                                                                                              | ---                | ---                               |
-| ☐      | [Intro to Networking](https://tryhackme.com/r/room/introtonetworking)                            | Informational      | 30 Minutes                        |
-| ☐      | [Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)                           | Informational      | 30 Minutes                        |
-| ☐      | [Networking Core Protocols](https://tryhackme.com/r/room/networkingcoreprotocols)                | Informational      | 30 Minutes                        |
-| ☐      | [Networking Secure Protocols](https://tryhackme.com/r/room/networkingsecureprotocols)            | Informational      | 30 Minutes                        |
-| ☐      | [Firewall Fundamentals](https://tryhackme.com/r/room/firewallfundamentals)                       | Informational      | 30 Minutes                        |
-| ☐      | [Network Security Architecture](https://tryhackme.com/r/room/introtosecurityarchitecture)        | Informational      | 30 Minutes                        |
+| ☐      | [Intro to Networking](https://tryhackme.com/r/room/introtonetworking)                            | Easy               | 20 Minutes                        |
+| ☐      | [Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)                           | Easy               | 60 Minutes                        |
+| ☐      | [Networking Core Protocols](https://tryhackme.com/r/room/networkingcoreprotocols)                | Easy               | 45 Minutes                        |
+| ☐      | [Networking Secure Protocols](https://tryhackme.com/r/room/networkingsecureprotocols)            | Easy               | 60 Minutes                        |
+| ☐      | [Firewall Fundamentals](https://tryhackme.com/r/room/firewallfundamentals)                       | Easy               | 60 Minutes                        |
+| ☐      | [Network Security Architecture](https://tryhackme.com/r/room/introtosecurityarchitecture)        | Medium             | 60 Minutes                        |
+
 
 
 Basics of Malware *recommended*
@@ -107,6 +108,7 @@ Details to go over in trainings
 | ☐      | [Sysmon](https://tryhackme.com/r/room/sysmon)                                                    | Easy               | 120 Minutes                       | 
 | ☐      | [Registry Forensics](https://tryhackme.com/r/room/expregistryforensics)                          | Medium             | 120 Minutes                       |
 | ☐      | [Windows User Activity](https://tryhackme.com/r/room/windowsuseractivity)                        | Medium             | 60 Minutes                        |
+
 
 
 Boxes for Trainings
