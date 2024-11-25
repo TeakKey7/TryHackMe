@@ -21,11 +21,10 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 <!-- ☐ -->
 <!-- ☑ -->
 
-Indroduction
+Indroduction **only if you have not done tryhackme before*
 | Status | Room Title                                                                                       | Category           | Estimated Time to Completion      |
 | ---    | ---                                                                                              | ---                | ---                               |
 | ☐      | [Tutorial](https://tryhackme.com/room/tutorial)                                                  | Easy               | 15 Minutes                        |
-| ☐      | [Logs Fundamentals](https://tryhackme.com/r/room/logsfundamentals)                               | Easy               | 45 Minutes                        |
 
 Windows *required*
 | Status | Room Title                                                                                       | Category           | Estimated Time to Completion      | 
@@ -35,6 +34,7 @@ Windows *required*
 | ☐      | [Windows Command Line](https://tryhackme.com/r/room/windowscommandline)                          | Easy               | 45 Minutes                        |
 | ☐      | [Windows Powershell](https://tryhackme.com/r/room/windowspowershell)                             | Easy               | 60 Minutes                        | *
 | ☐      | [Windows Hardening](https://tryhackme.com/r/room/microsoftwindowshardening)                      | Easy               | 120 Minutes                       | *
+| ☐      | [Logs Fundamentals](https://tryhackme.com/r/room/logsfundamentals)                               | Easy               | 45 Minutes                        |
 | ☐      | [Introduction to Endpoint Security](https://tryhackme.com/r/room/introtoendpointsecurity)        | Easy               | 60 Minutes                        |
 | ☐      | [Active Directory Basics](https://tryhackme.com/r/room/winadbasics)                              | Easy               | 30 Minutes                        |
 | ☐      | [Registry Persistence Detection](https://tryhackme.com/r/room/registrypersistencedetection)      | Easy               | 60 Minutes                        |
