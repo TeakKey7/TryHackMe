@@ -21,12 +21,12 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 <!-- ☐ -->
 <!-- ☑ -->
 
-Indroduction **only if you have not done tryhackme before*
+Indroduction *+only if you have not done tryhackme before*
 | Status | Room Title                                                                                       | Category           | Estimated Time to Completion      |
 | ---    | ---                                                                                              | ---                | ---                               |
 | ☐      | [Tutorial](https://tryhackme.com/room/tutorial)                                                  | Easy               | 15 Minutes                        |
 
-Windows *required*
+Windows *Required*
 | Status | Room Title                                                                                       | Category           | Estimated Time to Completion      | 
 | ---    | ---                                                                                              | ---                | ---                               | 
 | ☐      | [Windows Fundamentals 1](https://tryhackme.com/r/room/windowsfundamentals1xbx)                   | Informational      | 30 Minutes                        | *
@@ -40,11 +40,10 @@ Windows *required*
 | ☐      | [Registry Persistence Detection](https://tryhackme.com/r/room/registrypersistencedetection)      | Easy               | 60 Minutes                        |
 | ☐      | [Windows Forensics 1](https://tryhackme.com/r/room/windowsforensics1)                            | Medium             | 60 Minutes                        |
 | ☐      | [Windows User Account Forensics](https://tryhackme.com/r/room/windowsuseraccountforensics)       | Easy               | 30 Minutes                        |
-| ☐      | [Active Directory Hardening](https://tryhackme.com/r/room/activedirectoryhardening)              | Medium             | 240 Minutes                       |
+| ☐      | [Active Directory Hardening*](https://tryhackme.com/r/room/activedirectoryhardening)             | Medium             | 240 Minutes                       |
+*highly recommended but not required
 
-
-
-Linux *required*
+Linux *Required*
 | Status | Room Title                                                                                       | Category           | Estimated Time to Completion      |
 | ---    | ---                                                                                              | ---                | ---                               |
 | ☐      | [Linux Fundamentals 1](https://tryhackme.com/r/room/linuxfundamentalspart1)                      | Informational      | 10 Minutes                        |
@@ -58,7 +57,7 @@ Linux *required*
 | ☐      | [Linux Logs Investigations](https://tryhackme.com/r/room/linuxlogsinvestigations)                | Informational      | 30 Minutes                        |
 | ☐      | [Linux Live Analysis](https://tryhackme.com/r/room/linuxliveanalysis)                            | Informational      | 30 Minutes                        |
 
-Networking and Firewall Basics *required*
+Networking and Firewall Basics *Required*
 | Status | Room Title                                                                                       | Category           | Estimated Time to Completion      |
 | ---    | ---                                                                                              | ---                | ---                               |
 | ☐      | [Intro to Networking](https://tryhackme.com/r/room/introtonetworking)                            | Informational      | 30 Minutes                        |
