@@ -14,14 +14,14 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 Indroduction *+only if you have not done tryhackme before*
 | Status | Room Title                                                                                       | Category           | Estimated Time to Completion      |
 | ---    | ---                                                                                              | ---                | ---                               |
-| ☐      | [Tutorial](https://tryhackme.com/room/tutorial)                                                  | Easy               | 15 Minutes                        |
+| ✓      | [Tutorial](https://tryhackme.com/room/tutorial)                                                  | Easy               | 15 Minutes                        |
 
 Windows *Required*
 | Status | Room Title                                                                                       | Category           | Estimated Time to Completion      | 
 | ---    | ---                                                                                              | ---                | ---                               | 
-| ☐      | [Windows Fundamentals 1](https://tryhackme.com/r/room/windowsfundamentals1xbx)                   | Informational      | 30 Minutes                        | *
-| ☐      | [Windows Fundamentals 2](https://tryhackme.com/r/room/windowsfundamentals2x0x)                   | Informational      | 30 Minutes                        | *
-| ☐      | [Windows Command Line](https://tryhackme.com/r/room/windowscommandline)                          | Easy               | 45 Minutes                        |
+| ✓      | [Windows Fundamentals 1](https://tryhackme.com/r/room/windowsfundamentals1xbx)                   | Informational      | 30 Minutes                        | *
+| ✓      | [Windows Fundamentals 2](https://tryhackme.com/r/room/windowsfundamentals2x0x)                   | Informational      | 30 Minutes                        | *
+| ✓      | [Windows Command Line](https://tryhackme.com/r/room/windowscommandline)                          | Easy               | 45 Minutes                        |
 | ☐      | [Windows Powershell](https://tryhackme.com/r/room/windowspowershell)                             | Easy               | 60 Minutes                        | *
 | ☐      | [Windows Hardening](https://tryhackme.com/r/room/microsoftwindowshardening)                      | Easy               | 120 Minutes                       | *
 | ☐      | [Logs Fundamentals](https://tryhackme.com/r/room/logsfundamentals)                               | Easy               | 45 Minutes                        |
