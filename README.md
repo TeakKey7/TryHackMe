@@ -22,7 +22,7 @@ Windows *Required*
 | ✓      | [Windows Fundamentals 1](https://tryhackme.com/r/room/windowsfundamentals1xbx)                   | Informational      | 30 Minutes                        | *
 | ✓      | [Windows Fundamentals 2](https://tryhackme.com/r/room/windowsfundamentals2x0x)                   | Informational      | 30 Minutes                        | *
 | ✓      | [Windows Command Line](https://tryhackme.com/r/room/windowscommandline)                          | Easy               | 45 Minutes                        |
-| ☐      | [Windows Powershell](https://tryhackme.com/r/room/windowspowershell)                             | Easy               | 60 Minutes                        | *
+| ✓      | [Windows Powershell](https://tryhackme.com/r/room/windowspowershell)                             | Easy               | 60 Minutes                        | *
 | ☐      | [Windows Hardening](https://tryhackme.com/r/room/microsoftwindowshardening)                      | Easy               | 120 Minutes                       | *
 | ☐      | [Logs Fundamentals](https://tryhackme.com/r/room/logsfundamentals)                               | Easy               | 45 Minutes                        |
 | ☐      | [Introduction to Endpoint Security](https://tryhackme.com/r/room/introtoendpointsecurity)        | Easy               | 60 Minutes                        |
