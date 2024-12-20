@@ -26,7 +26,7 @@ Windows *Required*
 | ✓      | [Windows Hardening](https://tryhackme.com/r/room/microsoftwindowshardening)                      | Easy               | 120 Minutes                       | *
 | ✓      | [Logs Fundamentals](https://tryhackme.com/r/room/logsfundamentals)                               | Easy               | 45 Minutes                        |
 | ✓      | [Introduction to Endpoint Security](https://tryhackme.com/r/room/introtoendpointsecurity)        | Easy               | 60 Minutes                        |
-| ☐      | [Active Directory Basics](https://tryhackme.com/r/room/winadbasics)                              | Easy               | 30 Minutes                        |
+| ✓      | [Active Directory Basics](https://tryhackme.com/r/room/winadbasics)                              | Easy               | 30 Minutes                        |
 | ☐      | [Registry Persistence Detection](https://tryhackme.com/r/room/registrypersistencedetection)      | Easy               | 60 Minutes                        |
 | ☐      | [Windows Forensics 1](https://tryhackme.com/r/room/windowsforensics1)                            | Medium             | 60 Minutes                        |
 | ☐      | [Windows User Account Forensics](https://tryhackme.com/r/room/windowsuseraccountforensics)       | Easy               | 30 Minutes                        |
