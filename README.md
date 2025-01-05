@@ -56,12 +56,12 @@ Networking and Firewall Basics *Required*
 | ---    | ---                                                                                              | ---                | ---                               |
 | ☐      | [Intro to Networking](https://tryhackme.com/r/room/introtonetworking)                            | Easy               | 20 Minutes                        |
 | ☐      | [Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)                           | Easy               | 60 Minutes                        |
-| ☐      | [Networking Core Protocols](https://tryhackme.com/r/room/networkingcoreprotocols)                | Easy               | 45 Minutes                        |
-| ☐      | [Networking Secure Protocols](https://tryhackme.com/r/room/networkingsecureprotocols)            | Easy               | 60 Minutes                        |
-| ☐      | [Firewall Fundamentals](https://tryhackme.com/r/room/firewallfundamentals)                       | Easy               | 60 Minutes                        |
+| ☐      | [Networking Core Protocols*](https://tryhackme.com/r/room/networkingcoreprotocols)                | Easy               | 45 Minutes                        |
+| ☐      | [Networking Secure Protocols*](https://tryhackme.com/r/room/networkingsecureprotocols)            | Easy               | 60 Minutes                        |
+| ☐      | [Firewall Fundamentals*](https://tryhackme.com/r/room/firewallfundamentals)                       | Easy               | 60 Minutes                        |
 | ☐      | [Network Security Architecture](https://tryhackme.com/r/room/introtosecurityarchitecture)        | Medium             | 60 Minutes                        |
 
-
+*premium only
 
 Basics of Malware *recommended*
 | Status | Room Title    
