@@ -41,7 +41,7 @@ Linux *Required*
 | ✓      | [Linux Shells*](https://tryhackme.com/r/room/linuxshells)                                         | Easy               | 45 Minutes                        |
 | ☐      | [Linux Fundamentals 2*](https://tryhackme.com/r/room/linuxfundamentalspart2)                      | Informational      | 20 Minutes                        |
 | ☐      | [Linux Fundamentals 3*](https://tryhackme.com/r/room/linuxfundamentalspart3)                      | Informational      | 18 Minutes                        |
-| ☐      | [Linux File System Analysis](https://tryhackme.com/r/room/linuxfilesystemanalysis)               | Easy               | 80 Minutes                        |
+| ✓       | [Linux File System Analysis](https://tryhackme.com/r/room/linuxfilesystemanalysis)               | Easy               | 80 Minutes                        |
 | ☐      | [Linux Incident Surface](https://tryhackme.com/r/room/linuxincidentsurface)                      | Easy               | 120 Minutes                       |
 | ☐      | [Linux System Hardening*](https://tryhackme.com/r/room/linuxsystemhardening)                      | Medium             | 30 Minutes                        |
 | ☐      | [Linux Process Analysis](https://tryhackme.com/r/room/linuxprocessanalysis)                      | Easy               | 60 Minutes                        |
@@ -54,7 +54,7 @@ Linux *Required*
 Networking and Firewall Basics *Required*
 | Status | Room Title                                                                                       | Category           | Estimated Time to Completion      |
 | ---    | ---                                                                                              | ---                | ---                               |
-| ☐      | [Intro to Networking](https://tryhackme.com/r/room/introtonetworking)                            | Easy               | 20 Minutes                        |
+| ✓       | [Intro to Networking](https://tryhackme.com/r/room/introtonetworking)                            | Easy               | 20 Minutes                        |
 | ☐      | [Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)                           | Easy               | 60 Minutes                        |
 | ☐      | [Networking Core Protocols*](https://tryhackme.com/r/room/networkingcoreprotocols)                | Easy               | 45 Minutes                        |
 | ☐      | [Networking Secure Protocols*](https://tryhackme.com/r/room/networkingsecureprotocols)            | Easy               | 60 Minutes                        |
