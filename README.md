@@ -42,7 +42,7 @@ Linux *Required*
 | ☐      | [Linux Fundamentals 2*](https://tryhackme.com/r/room/linuxfundamentalspart2)                      | Informational      | 20 Minutes                        |
 | ☐      | [Linux Fundamentals 3*](https://tryhackme.com/r/room/linuxfundamentalspart3)                      | Informational      | 18 Minutes                        |
 | ✓       | [Linux File System Analysis](https://tryhackme.com/r/room/linuxfilesystemanalysis)               | Easy               | 80 Minutes                        |
-| ☐      | [Linux Incident Surface](https://tryhackme.com/r/room/linuxincidentsurface)                      | Easy               | 120 Minutes                       |
+| ✓      | [Linux Incident Surface](https://tryhackme.com/r/room/linuxincidentsurface)                      | Easy               | 120 Minutes                       |
 | ☐      | [Linux System Hardening*](https://tryhackme.com/r/room/linuxsystemhardening)                      | Medium             | 30 Minutes                        |
 | ☐      | [Linux Process Analysis](https://tryhackme.com/r/room/linuxprocessanalysis)                      | Easy               | 60 Minutes                        |
 | ☐      | [Linux Logs Investigations*](https://tryhackme.com/r/room/linuxlogsinvestigations)                | Medium             | 60 Minutes                        |
