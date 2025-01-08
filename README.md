@@ -44,7 +44,7 @@ Linux *Required*
 | ✓       | [Linux File System Analysis](https://tryhackme.com/r/room/linuxfilesystemanalysis)               | Easy               | 80 Minutes                        |
 | ✓      | [Linux Incident Surface](https://tryhackme.com/r/room/linuxincidentsurface)                      | Easy               | 120 Minutes                       |
 | ☐      | [Linux System Hardening*](https://tryhackme.com/r/room/linuxsystemhardening)                      | Medium             | 30 Minutes                        |
-| ☐      | [Linux Process Analysis](https://tryhackme.com/r/room/linuxprocessanalysis)                      | Easy               | 60 Minutes                        |
+| ✓      | [Linux Process Analysis](https://tryhackme.com/r/room/linuxprocessanalysis)                      | Easy               | 60 Minutes                        |
 | ☐      | [Linux Logs Investigations*](https://tryhackme.com/r/room/linuxlogsinvestigations)                | Medium             | 60 Minutes                        |
 | ☐      | [Linux Live Analysis**](https://tryhackme.com/r/room/linuxliveanalysis)                           | Medium             | 120 Minutes                       |
 
