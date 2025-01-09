@@ -59,7 +59,7 @@ Networking and Firewall Basics *Required*
 | ☐      | [Networking Core Protocols*](https://tryhackme.com/r/room/networkingcoreprotocols)                | Easy               | 45 Minutes                        |
 | ☐      | [Networking Secure Protocols*](https://tryhackme.com/r/room/networkingsecureprotocols)            | Easy               | 60 Minutes                        |
 | ☐      | [Firewall Fundamentals*](https://tryhackme.com/r/room/firewallfundamentals)                       | Easy               | 60 Minutes                        |
-| ☐      | [Network Security Architecture](https://tryhackme.com/r/room/introtosecurityarchitecture)        | Medium             | 60 Minutes                        |
+| ✓      | [Network Security Architecture](https://tryhackme.com/r/room/introtosecurityarchitecture)        | Medium             | 60 Minutes                        |
 
 *premium only
 
